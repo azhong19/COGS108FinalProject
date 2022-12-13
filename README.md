@@ -1,4 +1,4 @@
-This is the (cloned) group repo for my final project for COGS108: Data Science in Practice
+This is a copy of the group repo for my final project for COGS108: Data Science in Practice
 
 Our project was on analyzing how different crime rates correlate with murder rates in the US, and if so, which crimes affect it the most. We sourced our data from the FBI's Uniform Crime Reporting (UCR) program. The main file of note is "FinalProjectGroup058Sp22.ipynb", which is a Jupyter Notebook that goes over all we did for our project.
 
